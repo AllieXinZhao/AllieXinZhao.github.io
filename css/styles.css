@@ -11461,6 +11461,10 @@ html {
 .masthead .masthead-avatar {
   width: 20rem;
 }
+/*The vidoes I used in projects*/
+.masthead .masthead-video {
+  width: 50rem;
+}
 
 @media (min-width: 992px) {
   .masthead {
