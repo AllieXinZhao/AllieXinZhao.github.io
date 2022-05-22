@@ -11466,10 +11466,6 @@ html {
   width: 100%;
   height: auto;
 }
-iframe{
-  width: 100%;
-  height: auto;
-}
 /*The image I used as the cover image*/
 .masthead .masthead-longImg {
   width: 80rem;
@@ -11539,3 +11535,4 @@ iframe{
 .copyright {
   background-color: #1a252f;
 }
+
