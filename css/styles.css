@@ -11463,7 +11463,17 @@ html {
 }
 /*The vidoes I used in projects*/
 .masthead .masthead-video {
-  width: 50rem;
+  width: 100%;
+  height: auto;
+}
+iframe{
+  width: 100%;
+  height: auto;
+}
+/*The image I used as the cover image*/
+.masthead .masthead-longImg {
+  width: 80rem;
+  height: 20rem;
 }
 
 @media (min-width: 992px) {
