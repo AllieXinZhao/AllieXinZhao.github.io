@@ -137,3 +137,9 @@ table.alt tfoot {
   width: 550px;
   height: auto;
 }
+/* Indent the first line of a paragraph with text-indent */
+/* https://coder-coder.com/how-to-indent-paragraph-text-in-html-css/ */
+p {
+  text-indent: 30px;
+  margin-bottom: 0;
+}
