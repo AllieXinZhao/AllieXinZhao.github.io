@@ -5,11 +5,7 @@ Mainly use by the Projects page
 */
 
 
-.theText {
-  font-size: 1.25rem;
-  font-weight: 300;
-  text-align: left;
-}
+
 
 
 
@@ -139,7 +135,19 @@ table.alt tfoot {
 }
 /* Indent the first line of a paragraph with text-indent */
 /* https://coder-coder.com/how-to-indent-paragraph-text-in-html-css/ */
-p {
+p.theText {
   text-indent: 30px;
   margin-bottom: 0;
+}
+
+.theText {
+  font-size: 1.25rem;
+  font-weight: 300;
+  text-align: left;
+}
+
+.shortText {
+  font-size: 1.25rem;
+  font-weight: 300;
+  text-align: left;
 }
